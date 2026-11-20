@@ -12,7 +12,7 @@ tags:
   - 笔记
 ---
 
-> Hux: this chapter is very similar to TAPL - ch13 References
+> Lee: this chapter is very similar to TAPL - ch13 References
 > But under a "formal verification" concept, it's more interesting and practical and push you to think about it!
 
 

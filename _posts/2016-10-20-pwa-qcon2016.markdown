@@ -16,12 +16,12 @@ tags:
 > 下滑这里查看更多内容
 
 
-### [Watching Fullscreen →](https://huxpro.github.io/pwa-qcon2016/)
+### [Watching Fullscreen →](https://leepro.github.io/pwa-qcon2016/)
 
 ### [Watching Video →](http://www.infoq.com/cn/presentations/progressive-web-app)
 
 <div class="visible-md visible-lg">
-    <img src="//huxpro.github.io/pwa-qcon2016/attach/qrcode.png" width="350" />
+    <img src="//leepro.github.io/pwa-qcon2016/attach/qrcode.png" width="350" />
     <small class="img-hint">Scanning on mobile</small>
 </div>
 

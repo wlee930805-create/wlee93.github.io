@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Lee Blog
+SEOTitle: 黄玄的博客 | Lee Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+# email: 填你自己的邮箱  # 原 huxpro@gmail.com 属原作者，leepro@gmail.com 属他人，均不可直接使用
+description: "这里是 @Lee黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "黄玄, Lee黄玄, Lee, 鬼栈, leepro, @leepro, 黄玄的博客, Lee Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://wlee93-github-io.pages.dev" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -15,11 +15,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: leepro
+zhihu_username: leepro
+github_username: leepro
+twitter_username: leepro
+#facebook_username:  leepro
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -65,7 +65,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: leepro
 
 
 # Netease settings
@@ -78,7 +78,7 @@ netease_comment: false
 
 
 # Google Analytics
-# 已停用原作者的 UA-49627206-1：该 ID 属于 huxpro 的统计资源，本站在为他人贡献访问数据。
+# 已停用原作者的 UA-49627206-1：该 ID 属于原作者的统计资源，本站在为他人贡献访问数据。
 # 留空或注释掉 ga_track_id 后，_includes/footer.html 中的统计脚本整段不会渲染。
 # 注意：footer.html 使用的是旧版 analytics.js（Universal Analytics），
 # UA 资源已于 2023 年 7 月停止收集数据，且不兼容 GA4 的 G-XXXXXXXXXX 格式。
@@ -90,4 +90,4 @@ ga_domain: wlee93-github-io.pages.dev
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Leepro.png # use absolute URL, seeing it's used in both `/` and `/about/`

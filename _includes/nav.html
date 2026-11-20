@@ -5,7 +5,7 @@
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
         {% endif %}
         <a class="new-site-link" href="https://hux.pro" aria-label="Visit my new site: hux.pro · 访问我的新个站：hux.pro">
-            <span class="new-site-wordmark" aria-hidden="true">λHUX</span>
+            <span class="new-site-wordmark" aria-hidden="true">λLEE</span>
             <span class="new-site-label" aria-hidden="true">new site</span>
             <svg width="10" height="10" viewBox="0 0 16 16" fill="none" aria-hidden="true" focusable="false">
                 <path d="M4 12 12 4M5 4h7v7" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
@@ -59,7 +59,7 @@
         var $navbar = document.querySelector('#huxblog_navbar');
         var $collapse = document.querySelector('.navbar-collapse');
 
-        var __HuxNav__ = {
+        var __LeeNav__ = {
             close: function () {
                 $navbar.className = " ";
                 // wait until animation end.
@@ -79,9 +79,9 @@
         // Bind Event
         $toggle.addEventListener('click', function (e) {
             if ($navbar.className.indexOf('in') > 0) {
-                __HuxNav__.close()
+                __LeeNav__.close()
             } else {
-                __HuxNav__.open()
+                __LeeNav__.open()
             }
         })
 
@@ -92,13 +92,13 @@
          * $toggle/$collapse will break global delegation.
          * 
          * Instead, we use a 'e.target' filter to prevent handler
-         * added to document close HuxNav.  
+         * added to document close LeeNav.  
          *
          * Also, we use 'click' instead of 'touchstart' as compromise
          */
         document.addEventListener('click', function (e) {
             if (e.target == $toggle) return;
             if (e.target.className == 'icon-bar') return;
-            __HuxNav__.close();
+            __LeeNav__.close();
         })
     </script>

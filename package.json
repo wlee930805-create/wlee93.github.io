@@ -1,14 +1,14 @@
 {
     "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "title": "Lee Blog",
+    "author": "Lee",
     "version": "1.8.2",
-    "homepage": "https://huxpro.github.io",
+    "homepage": "https://leepro.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/Leepro/leepro.github.io"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/Leepro/leepro.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",

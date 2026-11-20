@@ -15,10 +15,10 @@ tags:
 
 > 下滑这里查看更多内容
 
-### [Watching Fullscreen →](https://huxpro.github.io/pwa-in-my-pov/)
+### [Watching Fullscreen →](https://leepro.github.io/pwa-in-my-pov/)
 
 <div class="visible-md visible-lg">
-    <img src="//huxpro.github.io/pwa-in-my-pov/attach/qrcode.png" width="350" />
+    <img src="//leepro.github.io/pwa-in-my-pov/attach/qrcode.png" width="350" />
     <small class="img-hint">Scanning on mobile</small>
 </div>
 
